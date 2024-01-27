@@ -57,4 +57,7 @@
 *.prefab linguist-generated
 *.unity linguist-generated
 
+*.shader linguist-language=C#
+
+
 
